@@ -8,12 +8,14 @@ o Mayk Brito.
 
 Desenvolvemos uma aplicação web do zero (frontend e backend) utilizando HTML5, CSS3, JavaScript, Node e SQL.
 
- O projeto recebeu o nome de Ecoleta onde é realizado o gerenciamento os pontos de coleta para lixos recicláveis.
-  ![](/starter/public/assets/logo.svg)  </br>
+ O projeto recebeu o nome de Ecoleta onde é realizado o gerenciamento os pontos de coleta para lixos recicláveis.</br>
+ 
+ ![](/starter/public/assets/logo.svg)  </br>
   
 Segue um vídeo do resultado final do projeto Ecoleta, um marketplace para para encontrar pontos de coletas de lixo recicláveis </br>
 
-![](https://www.youtube.com/watch?v=YBvU8KvlWak&feature=youtu.be)
+(https://www.youtube.com/watch?v=YBvU8KvlWak&feature=youtu.be)
+
 
 
 
