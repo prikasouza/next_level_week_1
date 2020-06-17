@@ -1,7 +1,6 @@
 # Next Level Week - 1
 ---
 
-![](/starter/files/2560x1080.jpg)
 
 Na sexta passada do 01/06 à 05/06 aconteceu o evento da **Rockeseat** com uma versão nova que é o __Next Level Week__ o qual participei da versão **Starter** com o 
 o Mayk Brito.
